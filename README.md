@@ -4,19 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roosaramendis&label=Profile%20views&color=0e75b6&style=flat" alt="roosaramendis" /> </p>
 
+[![discord badge]][discord link] [![twitter badge]][twitter link]
 
 
-<p align="left"> <a href="https://twitter.com/@roosaramendis" target="blank"><img src="https://img.shields.io/twitter/follow/roosaramendis?logo=twitter&style=for-the-badge" alt="@roosaramendis" /></a> </p>
+[discord badge]: https://img.shields.io/discord/682183255734354002?label=Discord&style=for-the-badge
+[discord link]: https://discord.gg/cXxv2KtP
+[twitter badge]: https://img.shields.io/twitter/follow/roosaramendis?logo=twitter&style=for-the-badge
+[twitter link]: https://twitter.com/@roosaramendis
+
+
 
 - 📫 Reach me with **sydrac3d@duck.com**
 - You can see my protfolio on <a href="https://www.artstation.com/roosaramendis" rel="nofollow">Artstation</a>
 
 - You can see my Artworks on <a href="https://www.artstation.com/roosaramendis" rel="nofollow">Artstation</a>, <a href="https://www.pixiv.net/en/users/84658466" rel="nofollow">Pixiv</a>, <a href="https://cara.app/roosaramendis" rel="nofollow">Cara.app</a>
 
-- My discord sever [![discord badge]][discord link]
-
-[discord badge]: https://img.shields.io/discord/682183255734354002?label=Discord&style=for-the-badge
-[discord link]: https://discord.gg/cXxv2KtP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +34,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/roosaramendis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roosaramendis" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roosaramendis&show_icons=true&locale=en&layout=compact" alt="roosaramendis" /></p>
+<br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roosaramendis&show_icons=true&locale=en&layout=compact" alt="roosaramendis" /></p>
+<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roosaramendis&show_icons=true&locale=en" alt="roosaramendis" /></p>
 
