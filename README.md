@@ -42,7 +42,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=roosaramendis&theme=radical&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roosaramendis&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roosaramendis&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roosaramendis" alt="roosaramendis" /></a> </p>
 
