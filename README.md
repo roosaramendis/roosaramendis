@@ -46,9 +46,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roosaramendis" alt="roosaramendis" /></a> </p>
 
-## My Contributions Graph
+
 	
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/roosaramendis/roosaramendis/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
