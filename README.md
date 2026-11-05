@@ -1,6 +1,6 @@
 
-<h1 align="center">Ah le le👋, I'm Roosara Mendis</h1>
-<h3 align="center">Freelancer 3d Artist n 2D Artist , hobby programmer and beginner game developer</h3>
+<h1 align="center">Alo👋, I'm Roosara Mendis</h1>
+<h3 align="center">3d Artist n 2D Artist , hobby programmer and game dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roosaramendis&label=Profile%20views&color=0e75b6&style=flat" alt="roosaramendis" /> </p>
 
