@@ -1,8 +1,8 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="./assets/cat-dance.gif" height="170" alt="cat vibing" />
-  <img width="62%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1f1f1f,100:2e2e2e&height=200&section=header&text=Roosara%20Mendis&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Main%20Character%20Energy%20%E2%80%A2%203D%20%2F%202D%20Artist%20%E2%80%A2%20VFX%20Mage&descAlignY=60&descSize=17" alt="header" />
-  <img src="./assets/cat-dance.gif" height="170" alt="cat vibing" />
+  <img src="./assets/cat-dance.gif" width="15%" alt="cat vibing" />
+  <img width="66%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1f1f1f,100:2e2e2e&height=200&section=header&text=Roosara%20Mendis&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Main%20Character%20Energy%20%E2%80%A2%203D%20%2F%202D%20Artist%20%E2%80%A2%20VFX%20Mage&descAlignY=60&descSize=17" alt="header" />
+  <img src="./assets/cat-dance.gif" width="15%" alt="cat vibing" />
 </p>
 
 <p align="center">
@@ -129,22 +129,16 @@ status_effect:  "cooked 💀 but still locked in"
 > *Scouter says... IT'S OVER 9000!!* ...probably ( •̀ ω •́ )✧
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=roosaramendis&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roosaramendis&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="top languages" />
+  <img height="170" src="./profile/stats.svg" alt="github stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=roosaramendis&theme=radical&hide_border=true" alt="streak stats" />
+  <img src="./profile/streak.svg" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=roosaramendis&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roosaramendis&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
-  </a>
+  <img src="./profile/trophy.svg" alt="trophies" />
 </p>
 
 ---
